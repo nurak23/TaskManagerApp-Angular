@@ -1,6 +1,6 @@
 # Task Manager App in Angular. 
 
-It includes the Angular ui as well as JSON-server for our mock backend
+It includes the Angular UI as well as JSON-server for mock backend
 
 ## Usage
 
